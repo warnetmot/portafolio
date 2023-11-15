@@ -1,0 +1,9 @@
+.foto_img {
+    width: 150px; 
+    height: 200px;
+    border-radius: 40%; 
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 45%;
+    top: 15%;  
+}

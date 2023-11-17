@@ -1,9 +1,25 @@
 .foto_img {
-    width: 150px; 
-    height: 200px;
-    border-radius: 40%; 
+    flex-direction: column;
+    width: 270px; 
+    height: 330px;
+    border-radius: 30%; 
     background-repeat: no-repeat;
     position: absolute;
-    left: 45%;
+    left: 30%;
     top: 15%;  
+    
+}
+.img-logo{
+    width: 30px;
+    height: 30px;
+    
+}
+.fondo{
+    width: 50wh;
+    height: 60vh;
+    z-index: -1;
+    background: url(/img/bannertec.jpg);
+    background-repeat: no-repeat;
+    
+
 }

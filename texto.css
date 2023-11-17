@@ -1,0 +1,18 @@
+.tex-titulo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 4rem;
+}
+.tex-sub{
+  
+    text-align: center;
+    font-size: 3rem;
+    color: azure;
+    
+
+}
+.tex-cont{
+    text-align: center;
+    color: azure;
+    font-size: 1.2rem;
+}
